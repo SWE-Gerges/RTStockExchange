@@ -1,0 +1,6 @@
+@RTStockExchange.Server_HostAddress = http://localhost:5234
+
+GET {{RTStockExchange.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
